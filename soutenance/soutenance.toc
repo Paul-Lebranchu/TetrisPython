@@ -1,0 +1,7 @@
+\beamer@sectionintoc {1}{Introduction}{3}{0}{1}
+\beamer@sectionintoc {2}{Gestion des \IeC {\'e}crans du menu}{4}{0}{2}
+\beamer@sectionintoc {3}{Explication des m\IeC {\'e}canismes du jeu}{7}{0}{3}
+\beamer@sectionintoc {4}{Pistes intelligence artificielle}{10}{0}{4}
+\beamer@sectionintoc {5}{Explication piste r\IeC {\'e}seau}{13}{0}{5}
+\beamer@sectionintoc {6}{D\IeC {\'e}monstration}{15}{0}{6}
+\beamer@sectionintoc {7}{Conclusion}{16}{0}{7}

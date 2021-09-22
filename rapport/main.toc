@@ -1,0 +1,25 @@
+\babel@toc {french}{}
+\contentsline {section}{\numberline {1}Introduction}{2}
+\contentsline {section}{\numberline {2}Organisation du projet}{3}
+\contentsline {subsection}{\numberline {2.1}Gestion du projet}{3}
+\contentsline {subsection}{\numberline {2.2}R\IeC {\'e}partition des t\IeC {\^a}ches}{4}
+\contentsline {section}{\numberline {3}Architecture du projet}{6}
+\contentsline {subsection}{\numberline {3.1}Arborescence du projet}{6}
+\contentsline {subsection}{\numberline {3.2}Diagramme des modules et des classes}{7}
+\contentsline {subsection}{\numberline {3.3}Cas d'utilisation}{8}
+\contentsline {section}{\numberline {4}\IeC {\'E}l\IeC {\'e}ments techniques}{9}
+\contentsline {subsection}{\numberline {4.1}Description des fonctionnalit\IeC {\'e}s du Tetris}{9}
+\contentsline {subsection}{\numberline {4.2}Impl\IeC {\'e}mentions des fonctionnalit\IeC {\'e}s}{9}
+\contentsline {subsection}{\numberline {4.3}Algorithmes sp\IeC {\'e}cifiques}{14}
+\contentsline {section}{\numberline {5}Pistes et r\IeC {\'e}flexion de certains aspects}{16}
+\contentsline {subsection}{\numberline {5.1}R\IeC {\'e}flexion sur la conception de l'IA}{16}
+\contentsline {subsubsection}{\numberline {5.1.1}Cr\IeC {\'e}ation d'une IA - les pr\IeC {\'e}misses}{16}
+\contentsline {subsubsection}{\numberline {5.1.2}Une deuxi\IeC {\`e}me IA}{16}
+\contentsline {subsubsection}{\numberline {5.1.3}Application de l'algorithme min-max}{16}
+\contentsline {subsection}{\numberline {5.2}R\IeC {\'e}flexion sur le r\IeC {\'e}seau}{17}
+\contentsline {section}{\numberline {6}Exp\IeC {\'e}rimentation et usage}{18}
+\contentsline {subsection}{\numberline {6.1}Visuel de l'acc\IeC {\`e}s au jeu}{18}
+\contentsline {subsection}{\numberline {6.2}Visuel du Tetris}{21}
+\contentsline {section}{\numberline {7}Conclusion}{23}
+\contentsline {section}{\numberline {8}Les pistes d'am\IeC {\'e}liorations}{23}
+\contentsline {section}{\numberline {9}Sources}{24}
